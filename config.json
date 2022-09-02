@@ -1,0 +1,15 @@
+{
+    "bot":{
+        "username":"Leofox",
+        "host":"gw-play.ru",
+        "port":25565,
+        "version":"1.13.2"    
+    },
+    "alias":[
+        "биба"
+    ],
+    "CustomJoinPath":"./CustomJoins",
+    "PluginPath":"./Plugins",
+    "LanguagePath":"./Lang/Ru.json",
+    "SchematicPath":"./schematics"
+}

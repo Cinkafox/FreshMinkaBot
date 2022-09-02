@@ -1,0 +1,32 @@
+{
+    "groups": {
+      "nil": {
+        "perms": []
+      },
+      "users": {
+        "parent": "",
+        "perms": [
+          
+        ]
+      },
+      "op": {
+        "parent": "users",
+        "perms": [
+          "печать",
+          "рестарт"
+        ]
+      }
+    },
+    "users": {
+      "default": {
+        "group": "users",
+        "perms": []
+      },
+      "CinemaFoxProd": {
+        "group": "op",
+        "perms": [
+          
+        ]
+      }
+    }
+  }
